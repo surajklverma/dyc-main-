@@ -22,7 +22,7 @@ h1, h2, h3, h4, h5, h6 {
   .brand-name {
     font-size: 1rem;
   }
-  .imageslogo{
+  .Imageslogo{
     height: 60px;
     width: 60px;
   }
@@ -30,7 +30,7 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 1rem;
   }
 }
-table{
+table, tr ,th, td{
   background-color: white;
   border:2px solid blue;
 
@@ -85,7 +85,7 @@ table{
 
 @media only screen and  (max-width:995px){
   .circle{
-    align-items: center;
+    align : center;
   }
 }
 
@@ -93,6 +93,7 @@ table{
   border: 3px solid green;
   background-image: url("Images/back.jpg");
   background-size: 800px;
+
 
 
 }

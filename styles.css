@@ -1,0 +1,10 @@
+body{
+  text-align: center;
+  margin:8%  30% 20% 30%;
+}
+
+select {
+       width: 540px;
+       height: 40px;
+       margin-top: 5px;
+   }

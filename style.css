@@ -14,9 +14,6 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 3rem;
   padding-left:50px;
 }
-.heading{
-    margin-left:50px;
-}
 .header {
   padding:10px 5px 10px 5px;
   background-color:#018383;
@@ -57,7 +54,7 @@ table{
 }
 
 .testimonial-text {
-  font-size: 2rem;
+  font-size: 1rem;
   line-height: 1.5;
 }
 
@@ -79,12 +76,6 @@ table{
 }
 
 
-/* main section */
-
-/* .main{
-  margin-top:15px;
-  background-color: #eb4d55;
-} */
 .circle{
   margin: 20px 20px 20px 40px;
   width:300px;
@@ -94,7 +85,7 @@ table{
 
 @media only screen and  (max-width:995px){
   .circle{
-    margin-left: 30%;
+    align-items: center;
   }
 }
 
